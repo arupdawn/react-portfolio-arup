@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name": "Arup Ch Dawn",
+    "occupation": "Front-End Developer",
+    "description": "I am a front-end developer by my work and passion, I love creating cool, creative and beautiful apps, #arupdon",
+    "image": "profile_pic.jpg",
+    "bio": "I am a front-end developer by my work and passion, I love creating interactive, cool, creative and beautiful apps. I have basically created apps using HTML5, CSS3, Javascript, Reactjs, Bootstrap and you can check them in the below section of my portfolio. I am basically a fun-loving, chilled person and like to hang out with friends and explore new places. I like singing, listening to music and watching cricket apart from coding of course. If you find my portfolio interesting enough and you want to work with me, do not hesitate to drop a mail at my email id mentioned in the contact section. You can also call me on my contact number mentioned.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "arupchandradawn@gmail.com",
+    "phone": "+91 9641364470",
+    "address": {
+      "street": "6th cross street, Marathalli",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560037"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1O8Q7iBzIIA_RZf1hWaNxVrbaU7jRo0GB/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/arupdawn",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/arup-chandra-dawn-8b048872/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/arupdon/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/arupdawn",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Checkout my skills below which I have used to build the apps....",
+    "education": [
+      {
+        "school": "West Bengal University of Technology",
+        "degree": "B.Tech in Information Technology",
+        "graduated": "July 2015",
+        "description": "Graduated with 8.44 gpa"
+      }
+    ],
+    "work": [
+      {
+        "company": "Ninjaas Labs",
+        "title": "Web Developer",
+        "years": "Nov 2020 - Present",
+        "description": "Working as a Frontend Developer"
+      },
+      {
+        "company": "Swiggy",
+        "title": "Support Executive",
+        "years": "May 2018 - June 2020",
+        "description": "Support Work in Swiggy"
+      },
+      {
+        "company": "TCS",
+        "title": "Assistant System Engineer",
+        "years": "Nov 2015 - Aug 2017",
+        "description": "Working on Technical Support Projects of Amex SSO"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "60%"
+      },
+      {
+        "name": "CSS3",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "61%"
+      },
+      {
+        "name": "GIT",
+        "level": "50%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Messenger Clone App",
+        "category": "Messenger Clone App built with (HTML, CSS, JavaScript, ReactJs, Firebase)",
+        "image": "messenger-clone.PNG",
+        "url": "https://cocky-roentgen-3edc5b.netlify.app/"
+      },
+      {
+        "title": "Slack Clone App",
+        "category": "Slack Clone App built with (HTML, CSS, JavaScript, ReactJs, Firebase)",
+        "image": "slack-clone.PNG",
+        "url": "https://slack-clone-a0cc6.web.app/"
+      },
+      {
+        "title": "Amazon Clone App",
+        "category": "Amazon Clone App built with (HTML, CSS, JavaScript, ReactJs, Firebase)",
+        "image": "AmazonClone_Final.PNG",
+        "url": "https://upbeat-ardinghelli-037573.netlify.app/"
+      },
+      {
+        "title": "Online Movie Search App",
+        "category": "Movie Search App built with (HTML, CSS, JavaScript, ReactJs, Bootstrap)",
+        "image": "Movie_search.PNG",
+        "url": "https://arupdawn.github.io/moviesearch2/"
+      },
+      {
+        "title": "Online Live Cricket Score App",
+        "category": "Online Live Cricket Score built with (HTML, CSS, JavaScript, ReactJs, Bootstrap and SCSS)",
+        "image": "CricScore.PNG",
+        "url": "https://objective-borg-06bf9f.netlify.app/"
+      },
+      {
+        "title": "Demo Restaurant App",
+        "category": "Restaurant App built with ReactJS",
+        "image": "resto_app.PNG",
+        "url": "https://arupdawn.github.io/restoapp1/"
+      },
+      {
+        "title": "Calculator App",
+        "category": "Calculator App built with ReactJS",
+        "image": "calculator.PNG",
+        "url": "https://arupdawn.github.io/newcalculator/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Arup has been amazing to work with, cheers!!! 🔥🔥 - demo testimonial",
+        "user": "Ruby Haq"
+      },
+      {
+        "text": "That Arup Dawn must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. - demo testimonial",
+        "user": "Glen Clark"
+      },
+      {
+        "text": "Would definitely recommend him for the amazing work done by Arup. - demo testimonial",
+        "user": "Stephen Shepherd"
+      }
+    ]
+  }
+}
