@@ -99,6 +99,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Netflix Clone App",
+        "category": "Netflix Clone App built with (HTML, CSS, JavaScript, ReactJs, Redux, Firebase)",
+        "image": "netflixclone2.png",
+        "url": "https://netflixclonearup.netlify.app/"
+      },
+      {
         "title": "Messenger Clone App",
         "category": "Messenger Clone App built with (HTML, CSS, JavaScript, ReactJs, Firebase)",
         "image": "messenger-clone.PNG",
@@ -133,12 +139,6 @@
         "category": "Restaurant App built with ReactJS",
         "image": "resto_app.PNG",
         "url": "https://arupdawn.github.io/restoapp1/"
-      },
-      {
-        "title": "Calculator App",
-        "category": "Calculator App built with ReactJS",
-        "image": "calculator.PNG",
-        "url": "https://arupdawn.github.io/newcalculator/"
       }
     ]
   },
