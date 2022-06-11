@@ -51,9 +51,15 @@
     ],
     "work": [
       {
+        "company": "Makonis AI",
+        "title": "Senior Software Engineer - Front End",
+        "years": "Aug 2021 - Present",
+        "description": "Working as a Senior Frontend Developer"
+      },
+      {
         "company": "Ninjaas Labs",
         "title": "Web Developer",
-        "years": "Nov 2020 - Present",
+        "years": "Nov 2020 - Aug 2021",
         "description": "Working as a Frontend Developer"
       },
       {
@@ -91,7 +97,7 @@
         "level": "50%"
       },
       {
-        "name": "Bootstrap",
+        "name": "Redux",
         "level": "30%"
       }
     ]
