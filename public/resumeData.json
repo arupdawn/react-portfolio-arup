@@ -15,7 +15,7 @@
       "zip": "560037"
     },
     "website": "http://www.dev.com",
-    "resumedownload": "https://drive.google.com/file/d/104htiEMkded34mucDFZt76ladVkMvhon/view?usp=drivesdk",
+    "resumedownload": "https://drive.google.com/file/d/1WpYifnk7hv4Jy8TtDosdpvZU3Tb6jaN6/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -24,7 +24,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/arup-chandra-dawn-8b048872/",
+        "url": "https://www.linkedin.com/in/arupchandradawn/",
         "className": "fa fa-linkedin"
       },
       {
@@ -51,9 +51,27 @@
     ],
     "work": [
       {
+        "company": "3SC",
+        "title": "Senior Frontend Developer",
+        "years": "June 2023 - Present",
+        "description": "Working as a Senior Frontend Developer"
+      },
+      {
+        "company": "iFocus Systec (India) Private Limited",
+        "title": "Senior Software Engineer",
+        "years": "Feb 2023 - June 2023",
+        "description": "Working as a Senior Frontend Developer"
+      },
+      {
+        "company": "Aspire Systems",
+        "title": "Senior Engineer",
+        "years": "Jul 2022 - Dec 2022",
+        "description": "Working as a Senior Frontend Developer"
+      },
+      {
         "company": "Makonis AI",
         "title": "Senior Software Engineer - Front End",
-        "years": "Aug 2021 - Present",
+        "years": "Aug 2021 - Jul 2022",
         "description": "Working as a Senior Frontend Developer"
       },
       {
@@ -78,7 +96,7 @@
     "skills": [
       {
         "name": "HTML5",
-        "level": "60%"
+        "level": "65%"
       },
       {
         "name": "CSS3",
@@ -90,15 +108,19 @@
       },
       {
         "name": "ReactJs",
-        "level": "61%"
+        "level": "81%"
       },
       {
         "name": "GIT",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "Redux",
-        "level": "30%"
+        "level": "70%"
+      },
+      {
+        "name": "Redux Toolkit",
+        "level": "50%"
       }
     ]
   },
